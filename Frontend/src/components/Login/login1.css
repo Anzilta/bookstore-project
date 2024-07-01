@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    
+    width: 500px;
+    align-items: center;
+    background-image: url('./images/book.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url('./images/book.jpg');    
+}
+
+
+
+
+
+.text {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.pass{
+    margin-top: 20px;
+}
+
+.button{
+    width: 20pxpx;
+    margin-top: 30px;
+    
+}
